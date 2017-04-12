@@ -40,4 +40,8 @@ public class MainActivity extends AppCompatActivity implements MoviesFragment.On
                 .addToBackStack(null)
                 .commit();
     }
+
+    public void moviePageAdapter() {
+        
+    }
 }
